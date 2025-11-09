@@ -65,6 +65,6 @@
 <p align="center">
 <a href="mailto:ansarkairzhan1@gmail.com"><img src="https://img.shields.io/badge/-ansarkairzhan1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kawemv1"><img src="https://img.shields.io/badge/-@kawemv1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://instagram.com/kawemv1"><img src="https://img.shields.io/badge/-@beysenly-05122A?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/beysenly"><img src="https://img.shields.io/badge/-@beysenly-05122A?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31pbpitl3nvapd7nrfgbx6iwdg54"><img src="https://img.shields.io/badge/-Beysenly-BD081C?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
